@@ -10,6 +10,7 @@ let board = [
     ['', '', ''],
     ['', '', '']
 ];
+
 let player1, player2;
 let input1, input2;
 let winner;
